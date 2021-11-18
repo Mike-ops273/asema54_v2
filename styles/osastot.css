@@ -1,0 +1,30 @@
+.main {
+  background: /*linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),*/ url(../media/osastot_image.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 71vh;
+  background-size: cover;
+}
+.palokunta-about-us h2 {
+  padding-top: 40px;
+  text-align: center;
+}
+.palokunta-about-us p {
+  text-align: center;
+  padding-top: 15px;
+}
+.palokunta-about-us {
+  padding-bottom: 20px;
+}
+/**/
+/**/
+/**/
+.osastot-presentation {
+  padding-top: 40px;
+}
+.osastot-presentation .space {
+  padding-top: 40px;
+}
+.osastot-presentation img {
+  width: 500px;
+}

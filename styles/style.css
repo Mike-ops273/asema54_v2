@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+#brand-text {
+  padding-left: 5px;
+  font-size: 22px;
+}
+.nav-color {
+  background-color: white;
+}
+.fixed-top {
+  background-color: white;
+}
+/**/
+/**/
+/**/
+
+.main {
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(../media/landing_image.jpg);
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  padding: 280px 0 220px;
+}
+.main p {
+  padding: 0;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+.main h2 {
+  font-size: 40px;
+  font-weight: 800;
+  color: white;
+  padding-bottom: 25px;
+  text-align: center;
+}
+#arrow-down {
+  font-size: 40px;
+}
+/**/
+/**/
+/**/
+
+.landing-about-us {
+  padding-bottom: 20px;
+}
+.landing-about-us h2 {
+  padding-top: 40px;
+  text-align: center;
+}
+.landing-about-us p {
+  padding-top: 15px;
+  text-align: center;
+}
+/**/
+/**/
+/**/
+
+.landing-osastot {
+  padding-bottom: 20px;
+}
+.landing-osastot h2 {
+  padding-top: 40px;
+  text-align: center;
+  padding-bottom: 25px;
+}
+/* GONNA MESS WITH THE CARDS
+.card-img-top {
+  height: 10%;
+}
+*/
+
+.card img {
+  height: 500px;
+  object-fit: cover;
+}
+.card-img-top img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
+.landing-osastot .card {
+  border: none;
+}
+/**/
+/**/
+/**/
+
+.footer {
+  position: relative;
+  background: url(../media/footer_bg.jpeg);
+  min-height: 10vh;
+  background-size: cover;
+  background-position: center;
+  padding-top: 80px;
+}
+.footer h5 {
+  color: white;
+}
+.footer p {
+  color: white;
+}
+#footer-bottom-bar-container {
+  padding-top: 20px;
+  padding-bottom: 1px;
+  background-color: black;
+  color: white;
+}

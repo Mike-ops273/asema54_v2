@@ -1,0 +1,16 @@
+.main {
+  background: linear-gradient(rgba(0, 0, 0, 0.09), rgba(0, 0, 0, 0.09)),
+    url(../media/yhteystiedot_image.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 71vh;
+  background-size: cover;
+}
+
+.yhteystiedot-about-us {
+  text-align: center;
+  padding-top: 40px;
+}
+.yhteystiedot-info {
+  padding-top: 40px;
+}
