@@ -22,6 +22,7 @@
   position: relative;
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url(../media/landing_image.jpg);
+  background-attachment: fixed;
   min-height: 100vh;
   background-size: cover;
   background-position: center;
