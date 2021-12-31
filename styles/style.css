@@ -71,11 +71,6 @@
   text-align: center;
   padding-bottom: 25px;
 }
-/* GONNA MESS WITH THE CARDS
-.card-img-top {
-  height: 10%;
-}
-*/
 
 .card img {
   height: 500px;
@@ -89,6 +84,16 @@
 .landing-osastot .card {
   border: none;
 }
+/**/
+/**/
+/**/
+
+.landing-juhlasali h2 {
+  padding-top: 40px; 
+  text-align: center;
+  padding-bottom: 25px;
+}
+/* INSERT SALI IMAGE HERE */ 
 /**/
 /**/
 /**/
