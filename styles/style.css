@@ -10,7 +10,7 @@ a {
 
 #brand-text {
   padding-left: 5px;
-  font-size: 22px;
+  font-size: 20px;
 }
 .nav-color {
   background-color: white;
@@ -127,5 +127,8 @@ a {
   padding-top: 20px;
   padding-bottom: 1px;
   background-color: black;
+  color: white;
+}
+.footer-link {
   color: white;
 }
